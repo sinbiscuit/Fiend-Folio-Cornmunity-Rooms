@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<rooms>
+	<room variant="0" name="A mirror of a wonderful Chest room" type="1" subtype="0" shape="1" width="13" height="7" difficulty="1" weight="1.0">
+		<door exists="False" x="-1" y="3"/>
+		<door exists="True" x="6" y="-1"/>
+		<door exists="True" x="6" y="7"/>
+		<door exists="True" x="13" y="3"/>
+		<spawn x="0" y="0">
+			<entity type="183" variant="1019" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="0">
+			<entity type="183" variant="1019" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="0">
+			<entity type="183" variant="1019" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="0">
+			<entity type="183" variant="1019" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="1">
+			<entity type="1901" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="1">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="1">
+			<entity type="183" variant="1019" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="2">
+			<entity type="183" variant="1019" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="3">
+			<entity type="5" variant="300" subtype="83" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="3">
+			<entity type="183" variant="1015" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="6" y="3">
+			<entity type="5" variant="752" subtype="1" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="4">
+			<entity type="183" variant="1019" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="5">
+			<entity type="1901" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="5">
+			<entity type="1000" variant="0" subtype="0" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="5">
+			<entity type="183" variant="1019" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="0" y="6">
+			<entity type="183" variant="1019" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="1" y="6">
+			<entity type="183" variant="1019" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="2" y="6">
+			<entity type="183" variant="1019" subtype="5" weight="1.0"/>
+		</spawn>
+		<spawn x="3" y="6">
+			<entity type="183" variant="1019" subtype="5" weight="1.0"/>
+		</spawn>
+	</room>
+</rooms>
